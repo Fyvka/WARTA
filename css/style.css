@@ -489,7 +489,7 @@ img {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background: url("/img/Group 36.png") no-repeat;
+  background: url("img/Group 36.png") no-repeat;
   height: 333px;
   margin-left: -130px;
   margin-bottom: 90px;
@@ -578,8 +578,8 @@ text-transform: uppercase;*/
 
 @media (max-width: 1400px) {
   .mainpage {
-    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url("/img/1.png");
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/img/1.png");
+    background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url("img/1.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("img/1.png");
     background-size: no-repeat;
     background-position: center;
     background-size: cover;
